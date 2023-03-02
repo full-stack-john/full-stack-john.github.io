@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projects/positiveactivitiesquiz/static/css/main.a48b3795.css",
+    "main.js": "/projects/positiveactivitiesquiz/static/js/main.7e87225a.js",
+    "static/js/787.07ed07a6.chunk.js": "/projects/positiveactivitiesquiz/static/js/787.07ed07a6.chunk.js",
+    "static/media/stage2.jpg": "/projects/positiveactivitiesquiz/static/media/stage2.41ab8caabd3cd02edd8a.jpg",
+    "static/media/stage5.jpg": "/projects/positiveactivitiesquiz/static/media/stage5.5469af1212f5a7195093.jpg",
+    "static/media/stage4.jpg": "/projects/positiveactivitiesquiz/static/media/stage4.8f11b7e4780fba21b177.jpg",
+    "static/media/recommendations.png": "/projects/positiveactivitiesquiz/static/media/recommendations.b5420633fc8833ef4cb7.png",
+    "static/media/stage3.jpg": "/projects/positiveactivitiesquiz/static/media/stage3.519cad9eeae57ae00195.jpg",
+    "static/media/stage1.jpg": "/projects/positiveactivitiesquiz/static/media/stage1.30d766fe05fa2acc0218.jpg",
+    "static/media/psychoeducation.png": "/projects/positiveactivitiesquiz/static/media/psychoeducation.6eb06cdd64c2c6cf9e49.png",
+    "static/media/stage6.jpg": "/projects/positiveactivitiesquiz/static/media/stage6.484ea4e76bf4a3f99be0.jpg",
+    "static/media/logo.svg": "/projects/positiveactivitiesquiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/projects/positiveactivitiesquiz/index.html",
+    "main.a48b3795.css.map": "/projects/positiveactivitiesquiz/static/css/main.a48b3795.css.map",
+    "main.7e87225a.js.map": "/projects/positiveactivitiesquiz/static/js/main.7e87225a.js.map",
+    "787.07ed07a6.chunk.js.map": "/projects/positiveactivitiesquiz/static/js/787.07ed07a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a48b3795.css",
+    "static/js/main.7e87225a.js"
+  ]
+}
